@@ -1,6 +1,6 @@
-import fetch from "node-fetch";
+const fetch = require("node-fetch");
 
-export {
+module.exports = {
   requestLyricsFor,
   requestIconFor,
   requestAuthorFor,
