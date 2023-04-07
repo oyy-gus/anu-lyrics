@@ -1,0 +1,25 @@
+{
+  "name": "anu-lyrics",
+  "version": "0.0.1",
+  "description": "lyrics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyy-gus/anu-lyrics.git"
+  },
+  "keywords": [
+    "lyrics"
+  ],
+  "author": {
+    "name": "oyy-gus",
+    "url": "https://oyy-gus.vercel.app"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
