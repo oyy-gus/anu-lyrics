@@ -1,6 +1,6 @@
 {
   "name": "anu-lyrics",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "lyrics",
   "main": "index.js",
   "scripts": {
@@ -15,11 +15,11 @@
   ],
   "author": "oyy-gus (https://oyy-gus.vercel.app)",
   "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^3.3.1"
-  },
   "bugs": {
     "url": "https://github.com/oyy-gus/anu-lyrics/issues"
   },
-  "homepage": "https://github.com/oyy-gus/anu-lyrics#readme"
+  "homepage": "https://github.com/oyy-gus/anu-lyrics#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
 }
