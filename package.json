@@ -1,11 +1,9 @@
 {
   "name": "anu-lyrics",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "lyrics",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
-    "build": "tcs",
-    "start": "node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
